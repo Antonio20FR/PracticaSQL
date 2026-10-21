@@ -1,0 +1,41 @@
+{"_e":"root:init","_t":1792544880304,"format":"v0-jsonl","version":"56.1.16"}
+{"_e":"env:mode","_t":1792544880304,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792544880306,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792544880626,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792544881083,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1792544889919,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:server_log","_t":1792544890010,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n/workspaces/PracticaSQL/practica-movil-sqlite/node_modules/@react-native/debugger-shell/bin/react-native-devtools: error while loading shared libraries: libatk-1.0.so.0: cannot open shared object file: No such file or directory\n"]}
+{"_e":"metro:bundling:started","_t":1792544985670,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1792544985671,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792544985682,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792544985913,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1792544986040,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1792544986150,"id":"1","progress":0.09467455621301776,"total":26,"current":8}
+{"_e":"metro:bundling:progress","_t":1792544986282,"id":"1","progress":0.09467455621301776,"total":34,"current":10}
+{"_e":"metro:bundling:progress","_t":1792544986382,"id":"1","progress":0.09467455621301776,"total":47,"current":14}
+{"_e":"metro:bundling:progress","_t":1792544986526,"id":"1","progress":0.09467455621301776,"total":76,"current":22}
+{"_e":"metro:bundling:progress","_t":1792544986774,"id":"1","progress":0.09467455621301776,"total":81,"current":24}
+{"_e":"metro:bundling:progress","_t":1792544986880,"id":"1","progress":0.12641975308641976,"total":90,"current":32}
+{"_e":"metro:bundling:progress","_t":1792544986982,"id":"1","progress":0.17503123698458978,"total":98,"current":41}
+{"_e":"metro:bundling:progress","_t":1792544987397,"id":"1","progress":0.18367346938775508,"total":98,"current":42}
+{"_e":"metro:bundling:progress","_t":1792544987498,"id":"1","progress":0.2644897959183673,"total":105,"current":54}
+{"_e":"metro:bundling:progress","_t":1792544987600,"id":"1","progress":0.38117202268431,"total":115,"current":71}
+{"_e":"metro:bundling:progress","_t":1792544987807,"id":"1","progress":0.4444444444444444,"total":117,"current":78}
+{"_e":"metro:bundling:progress","_t":1792544987908,"id":"1","progress":0.44771842560553626,"total":136,"current":91}
+{"_e":"metro:bundling:progress","_t":1792544988012,"id":"1","progress":0.44771842560553626,"total":144,"current":95}
+{"_e":"metro:bundling:progress","_t":1792544988121,"id":"1","progress":0.46862753930003154,"total":149,"current":102}
+{"_e":"metro:bundling:progress","_t":1792544988220,"id":"1","progress":0.4998580064099963,"total":157,"current":111}
+{"_e":"metro:bundling:progress","_t":1792544988322,"id":"1","progress":0.5467033976124885,"total":165,"current":122}
+{"_e":"metro:bundling:progress","_t":1792544988422,"id":"1","progress":0.6342644053210943,"total":167,"current":133}
+{"_e":"metro:bundling:progress","_t":1792544988523,"id":"1","progress":0.6678228696959186,"total":186,"current":152}
+{"_e":"metro:bundling:progress","_t":1792544988627,"id":"1","progress":0.7372604917628355,"total":191,"current":164}
+{"_e":"metro:bundling:progress","_t":1792544988727,"id":"1","progress":0.8090957299058105,"total":199,"current":179}
+{"_e":"metro:bundling:progress","_t":1792544988827,"id":"1","progress":0.8182024793388429,"total":220,"current":199}
+{"_e":"metro:bundling:progress","_t":1792544988927,"id":"1","progress":0.8292621095518333,"total":235,"current":214}
+{"_e":"metro:bundling:progress","_t":1792544989035,"id":"1","progress":0.942280422261515,"total":239,"current":232}
+{"_e":"metro:bundling:progress","_t":1792544990527,"id":"1","progress":0.9668073037937011,"total":239,"current":235}
+{"_e":"metro:bundling:progress","_t":1792544990629,"id":"1","progress":0.9674818597151303,"total":244,"current":240}
+{"_e":"metro:bundling:progress","_t":1792544990734,"id":"1","progress":0.999,"total":249,"current":249}
+{"_e":"metro:bundling:done","_t":1792544990867,"id":"1","total":249,"ms":5196.0253}
+{"_e":"metro:client_log","_t":1792544992399,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1792544992400,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
